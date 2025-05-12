@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Mock Dishwasher Part 1 - DWSX0001",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 1 in our mock set.",
+    "url": "https://www.partselect.com/PSD0001-Mock-Part-DWSX0001.htm",
+    "compatible_models": [
+      "WD637C",
+      "WD794B",
+      "WD750B",
+      "WD388A",
+      "WD900A"
+    ],
+    "installation": "To install Dishwasher Part 1, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 1."
+  },
+  {
+    "title": "Mock Dishwasher Part 2 - DWSX0002",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 2 in our mock set.",
+    "url": "https://www.partselect.com/PSD0002-Mock-Part-DWSX0002.htm",
+    "compatible_models": [
+      "WD650C",
+      "WD200E",
+      "WD183C",
+      "WD966B",
+      "WD288B"
+    ],
+    "installation": "To install Dishwasher Part 2, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 2."
+  },
+  {
+    "title": "Mock Dishwasher Part 3 - DWSX0003",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 3 in our mock set.",
+    "url": "https://www.partselect.com/PSD0003-Mock-Part-DWSX0003.htm",
+    "compatible_models": [
+      "WD880B",
+      "WD619D",
+      "WD687E",
+      "WD433E",
+      "WD163A"
+    ],
+    "installation": "To install Dishwasher Part 3, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 3."
+  },
+  {
+    "title": "Mock Dishwasher Part 4 - DWSX0004",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 4 in our mock set.",
+    "url": "https://www.partselect.com/PSD0004-Mock-Part-DWSX0004.htm",
+    "compatible_models": [
+      "WD432B",
+      "WD626A",
+      "WD597D",
+      "WD543A",
+      "WD598E"
+    ],
+    "installation": "To install Dishwasher Part 4, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 4."
+  },
+  {
+    "title": "Mock Dishwasher Part 5 - DWSX0005",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 5 in our mock set.",
+    "url": "https://www.partselect.com/PSD0005-Mock-Part-DWSX0005.htm",
+    "compatible_models": [
+      "WD327A",
+      "WD156A",
+      "WD435C",
+      "WD796B",
+      "WD858D"
+    ],
+    "installation": "To install Dishwasher Part 5, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 5."
+  },
+  {
+    "title": "Mock Dishwasher Part 6 - DWSX0006",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 6 in our mock set.",
+    "url": "https://www.partselect.com/PSD0006-Mock-Part-DWSX0006.htm",
+    "compatible_models": [
+      "WD118E",
+      "WD909B",
+      "WD101B",
+      "WD286B",
+      "WD387C"
+    ],
+    "installation": "To install Dishwasher Part 6, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 6."
+  },
+  {
+    "title": "Mock Dishwasher Part 7 - DWSX0007",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 7 in our mock set.",
+    "url": "https://www.partselect.com/PSD0007-Mock-Part-DWSX0007.htm",
+    "compatible_models": [
+      "WD657D",
+      "WD878A",
+      "WD451B",
+      "WD529A",
+      "WD258A"
+    ],
+    "installation": "To install Dishwasher Part 7, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 7."
+  },
+  {
+    "title": "Mock Dishwasher Part 8 - DWSX0008",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 8 in our mock set.",
+    "url": "https://www.partselect.com/PSD0008-Mock-Part-DWSX0008.htm",
+    "compatible_models": [
+      "WD786E",
+      "WD756E",
+      "WD578C",
+      "WD671B",
+      "WD876C"
+    ],
+    "installation": "To install Dishwasher Part 8, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 8."
+  },
+  {
+    "title": "Mock Dishwasher Part 9 - DWSX0009",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 9 in our mock set.",
+    "url": "https://www.partselect.com/PSD0009-Mock-Part-DWSX0009.htm",
+    "compatible_models": [
+      "WD109D",
+      "WD553E",
+      "WD270A",
+      "WD828B",
+      "WD593A"
+    ],
+    "installation": "To install Dishwasher Part 9, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 9."
+  },
+  {
+    "title": "Mock Dishwasher Part 10 - DWSX00010",
+    "description": "This is a simulated dishwasher part used to demonstrate AI integration. It's part 10 in our mock set.",
+    "url": "https://www.partselect.com/PSD00010-Mock-Part-DWSX00010.htm",
+    "compatible_models": [
+      "WD147A",
+      "WD290B",
+      "WD218C",
+      "WD170D",
+      "WD242C"
+    ],
+    "installation": "To install Dishwasher Part 10, turn off water supply, remove screws from base panel, replace the part and reconnect hoses.",
+    "troubleshooting": "Resolves issues like water not draining, abnormal noise, or spray arm not spinning related to Dishwasher Part 10."
+  }
+]
